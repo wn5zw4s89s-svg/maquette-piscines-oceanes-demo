@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /
 # Maquette de demonstration — ne pas indexer
+# En production : voir PRODUCTION.md
